@@ -1,0 +1,103 @@
+#triangle
+{
+  width: 0px;
+  height: 0px;
+  border-top: 50px solid red;
+  border-right: 50px solid transparent;
+  border-left: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+
+}
+
+#cercle
+{
+  width:120px;
+	height:80px;
+	background:#18a6de;
+	-webkit-border-radius:150px / 100px;
+	-moz-border-radius:150px / 100px;
+	-o-border-radius:150px / 100px;
+	border-radius:150px / 100px;
+}
+
+#border
+{
+  width: 315px;
+  height: 355px;
+  background: dodgerblue;
+  border: none;
+  border-radius: 20px;
+}
+.h1{
+  color: white;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding-top: 2px;
+}
+p{
+  color: white;
+  margin-left: 10px;
+
+}
+hr
+{
+  color: white;
+}
+#image {
+  margin-left: 10px;
+}
+
+
+table
+{
+  border-collapse: collapse;
+}
+
+.ligne0
+{
+  background-color: rgb(62, 130, 240);
+  color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.ligne2{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.ligne3
+{
+ background-color :rgb(220, 245, 243);
+ padding-top: 10px;
+ padding-left: 10px;
+ padding-bottom: 10px;
+}
+.ligne4{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.ligne5
+{
+  background-color :rgb(220, 245, 243);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.ligne6{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.ligne7
+{
+  background-color :rgb(220, 245, 243);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+hr
+{
+  color: rgb(199, 237, 242);
+}
